@@ -1,5 +1,5 @@
 # library-api
-Library api for that gets a list of all the books from a library. This is a quickstart project for creating a basic API with Django Rest Framework.
+Library api that gets a list of all the books from a library. This is a quickstart project for creating a basic API with Django Rest Framework.
 
 
 ## Requirements
